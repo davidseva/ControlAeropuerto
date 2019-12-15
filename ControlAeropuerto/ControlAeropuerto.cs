@@ -14,9 +14,7 @@ namespace ControlAeropuerto
         {
             List <Vuelo> Vuelos = new List<Vuelo>();
             List <VueloSalida> VuelosSalida = new List<VueloSalida>();
-            List <VueloLlegada> Vuelosllegada = new List<VueloLlegada>();
-            //ArrayList VuelosSalida = new System.Collections.ArrayList();
-            //ArrayList VuelosLlegada = new System.Collections.ArrayList();
+            List <VueloLlegada> Vuelosllegada = new List<VueloLlegada>();            
             //implementar login
             string [] usuarios = new string [3];
             string[] password = new string[3];
